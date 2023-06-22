@@ -3,7 +3,9 @@ import React from "react";
 const Footer = () => {
     return (
         <>
-            <h3>Footer</h3>
+            <footer class="pt-5 my-5 text-muted border-top">
+                Created by the Bootstrap team &middot; &copy; 2021
+            </footer>
         </>
     )
 }
