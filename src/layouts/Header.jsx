@@ -16,7 +16,7 @@ const Header = () => {
 
     return (
         <>
-            <Navbar expand="lg" className="bg-body-tertiary">
+            <Navbar expand="lg" className="gradient-with-shadow bg-body-tertiary">
                 <Container fluid>
                     <Navbar.Brand href="/">Rohit Singh</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
